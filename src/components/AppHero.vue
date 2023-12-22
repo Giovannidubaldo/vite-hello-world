@@ -6,7 +6,7 @@ export default {
 
 <template lang="">
     <div>
-        
+        <img src="../assets/vue.svg" alt="">
     </div>
 </template>
 
